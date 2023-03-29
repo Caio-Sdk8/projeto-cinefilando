@@ -7,7 +7,7 @@
 
 <!-- <img src="exemplo-image.png" alt="exemplo imagem"> -->
 
-> Ao descobrir a api TMDB (The Movie Database).
+> Ao descobrir a api TMDB (The Movie Database) tive a ideia de tentar criar um quiz usando os dados fornecidos pela mesma.
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
