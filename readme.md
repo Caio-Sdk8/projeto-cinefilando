@@ -1,9 +1,9 @@
 # Projeto Cinefilando
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Caio-sdk8/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/Caio-sdk8/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Caio-sdk8/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Caio-sdk8/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Caio-sdk8/projeto-cinefilando?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Caio-sdk8/projeto-cinefilando?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Caio-sdk8/projeto-cinefilando?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Caio-sdk8/projeto-cinefilando?style=for-the-badge)
 
 <!-- <img src="exemplo-image.png" alt="exemplo imagem"> -->
 
